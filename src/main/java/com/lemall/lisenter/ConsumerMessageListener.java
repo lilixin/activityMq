@@ -4,6 +4,10 @@ import javax.jms.Message;
 import javax.jms.MessageListener;
 import javax.jms.TextMessage;
 
+/**
+*@Author: lilixin
+*@Date: 2016年10月14日
+*/
 public class ConsumerMessageListener implements MessageListener{
 
 	@Override

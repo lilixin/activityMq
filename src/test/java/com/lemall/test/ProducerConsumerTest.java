@@ -11,6 +11,10 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.lemall.producer.ProducerService;
 
+/**
+*@Author: lilixin
+*@Date: 2016年10月14日
+*/
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("classpath:spring/applicationContext.xml")
 public class ProducerConsumerTest {

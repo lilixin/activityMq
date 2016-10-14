@@ -10,6 +10,10 @@ import org.springframework.jms.core.JmsTemplate;
 import org.springframework.jms.core.MessageCreator;
 import org.springframework.stereotype.Component;  
    
+/**
+*@Author: lilixin
+*@Date: 2016年10月14日
+*/
 @Component  
 public class ProducerServiceImpl implements ProducerService {  
    
